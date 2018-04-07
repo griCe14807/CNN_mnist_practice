@@ -1,1 +1,1 @@
-# CNN_mnistpractice_
+# CNN_mnist_practice
